@@ -1,4 +1,7 @@
-Please read the CLA carefully before submitting your contribution to Mercari.
-Under any circumstances, by submitting your contribution, you are deemed to accept and agree to be bound by the terms and conditions of the CLA.
+## Contribution
 
-https://www.mercari.com/cla/
+The repository is provided READ ONLY and no contribution is accepted.
+
+### To Mercari members
+
+This guidelines and repository is maintained by the IT service team. If you have any requests for changes, please contact helosshi=san.
