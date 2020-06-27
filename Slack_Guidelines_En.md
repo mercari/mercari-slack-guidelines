@@ -7,7 +7,7 @@ We use Slack as our company-wide communication tool in Mercari. This purpose of 
 - Keep Openness in mind
     - In order to decrease communication costs and maintain our Openness culture, we communicate openly (except for personal information or insider information). - However, we don’t prohibit the use of private messages or private channels when necessary. Employees are free to invite, join, and leave channels as they see fit.
 - Understand chat communication has its limits
-    - Sometimes, text communication is not able to fully convey one’s thoughts. In such cases we should use other communication methods (Ex: In-person discussion, conference call on Google Hangout, etc.).
+    - Sometimes, text communication is not able to fully convey one’s thoughts. In such cases we should use other communication methods (Ex: In-person discussion, conference call on Google Hangouts, etc.).
 - Be respectful
     - Don’t hesitate to share your opinions because we value Openness, but be considerate toward other people and remember “All for One.”
 
