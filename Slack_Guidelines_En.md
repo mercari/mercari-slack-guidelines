@@ -1,7 +1,7 @@
 # Slack Guidelines
 
 ## Introduction
-We use Slack as our company-wide communication tool in Mercari. This purpose of these guidelines is to ensure information about a project or team communication is done smoothly and efficiently.
+We use Slack as our company-wide communication tool in Mercari. The purpose of these guidelines is to ensure information about a project or team communication is done smoothly and efficiently.
 
 ## Premise
 - Keep Openness in mind
