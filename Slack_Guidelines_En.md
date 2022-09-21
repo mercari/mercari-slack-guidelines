@@ -17,7 +17,7 @@ We use Slack as our company-wide communication tool in Mercari. The purpose of t
     - Specific external people
 - Mentions
     - Before mentioning @here/@channel in channels with many people, consider whether or not it’s needed.
-    - It is the members' responsibility to adjust mention settings for evenings, weekends, etc. 
+    - It is the recipient's responsibility to adjust mention settings for evenings, weekends, etc. 
 - Channels
     - Anyone can make a channel
     - Please be sure to write the purpose when creating a new channel
