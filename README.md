@@ -13,7 +13,7 @@ The repository is provided READ ONLY and no contribution is accepted.
 
 ### To Mercari members
 
-This guidelines and repository is maintained by the IT service team. If you have any requests for changes, please contact helosshi=san.
+This guidelines and repository is maintained by the IT service team. If you have any requests for changes, please contact [IT Service Request form](https://mercari.atlassian.net/servicedesk/customer/portal/6/group/67/create/86).
 
 ## License
 
